@@ -1,2 +1,2 @@
-# srdnozluk.github.io
-MySite
+# onokumus.github.io
+kişisel site
