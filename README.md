@@ -1,2 +1,0 @@
-# srdnozluk.github.io
-MySite
